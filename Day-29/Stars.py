@@ -10,4 +10,4 @@ Explanation
 For example, if the given word is Magician, the output should be    Magician   "'''
 
 word = input()
-print("* * * " + word + " * * *")
+print("* * * " + word + " * * *") 
