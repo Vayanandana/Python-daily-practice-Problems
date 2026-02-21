@@ -1,0 +1,5 @@
+A = input()
+B = input()
+C = input()
+check = ((A == "woman") or (B == "woman")) or (C == "woman") 
+print(check)
