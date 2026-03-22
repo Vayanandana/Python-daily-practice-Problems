@@ -1,0 +1,6 @@
+string = input()
+string2 = "aeiou"
+for i in string:
+    for j in string2:
+        if i == j:
+            print(i)
